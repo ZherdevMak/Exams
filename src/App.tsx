@@ -30,7 +30,7 @@ export const UserMoney = () => {
 //     Ответ дайте через пробел, пример: a={12} ccc={video.id} d={'hello'}
 
 
-copy
+
 import ReactDOM from 'react-dom'
 
 export const VideoHeader = (props: {videoName: string}) => {
@@ -71,10 +71,10 @@ ReactDOM.render(<App />,
     document.getElementById('root')
 );
 
-Что нужно написать вместо XXX YYY ZZZ? Ответ дайте через пробел
+// Что нужно написать вместо XXX YYY ZZZ? Ответ дайте через пробел
 
 
-copy
+
 import ReactDOM from 'react-dom'
 
 const CrazyButton = (props: any) => {
