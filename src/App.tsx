@@ -100,9 +100,9 @@ ReactDOM.render(<App/>,
     document.getElementById('root')
 )
 
-Что нужно написать вместо XXX YYY ZZZ? Ответ дайте через пробел
+// Что нужно написать вместо XXX YYY ZZZ? Ответ дайте через пробел
 
-copy
+
 import ReactDOM from 'react-dom'
 
 const Son = (props: any) => {
