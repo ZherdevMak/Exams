@@ -88,7 +88,7 @@ function UsersList() {
         <main>
             <h4>User list:</h4>
             <ul>
-                { users.map(u => <User key={u.id} {...users} />) }
+                { users.map(u => <User key={u.id} {...u} />) }
             </ul>
         </main>
     )
