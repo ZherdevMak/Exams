@@ -176,6 +176,7 @@ import {AnyAction} from "redux";
 // // Найдите и исправьте ошибку.
 // // Исправленную версию строки напишите в качестве ответа.
 // // Пример ответа: type InitStateType = typeof initState
+// dispatch(getPostsTC())
 //
 // Ответ:
 // import React from 'react'
@@ -378,6 +379,7 @@ import {AnyAction} from "redux";
 // // Пример ответа: type InitStateType = typeof initState
 //
 // // P.S. Эта ошибка из реальной жизни, студенты так часто ошибаются и не могут понять в чем дело.
+// ответ : dispatch(getPostsTC())
 
 // import React, { useEffect } from 'react'
 // import ReactDOM from 'react-dom/client';
